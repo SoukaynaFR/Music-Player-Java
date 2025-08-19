@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main1(String[] args) {
 
         String filePath = "src\\Pink Floyd-Hey You.wav";
         File file = new File(filePath);
